@@ -1,0 +1,10 @@
+C:\Users\ianch\source\repos\stack\queue\bin\Debug\queue.exe.config
+C:\Users\ianch\source\repos\stack\queue\bin\Debug\queue.exe
+C:\Users\ianch\source\repos\stack\queue\bin\Debug\queue.pdb
+C:\Users\ianch\source\repos\stack\queue\obj\Debug\queue.Form1.resources
+C:\Users\ianch\source\repos\stack\queue\obj\Debug\queue.Properties.Resources.resources
+C:\Users\ianch\source\repos\stack\queue\obj\Debug\queue.csproj.GenerateResource.cache
+C:\Users\ianch\source\repos\stack\queue\obj\Debug\queue.csproj.CoreCompileInputs.cache
+C:\Users\ianch\source\repos\stack\queue\obj\Debug\queue.exe
+C:\Users\ianch\source\repos\stack\queue\obj\Debug\queue.pdb
+C:\Users\ianch\source\repos\stack\queue\obj\Debug\queue.csproj.AssemblyReference.cache

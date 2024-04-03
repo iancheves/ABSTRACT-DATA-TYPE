@@ -1,0 +1,10 @@
+C:\Users\ianch\source\repos\stack\list\bin\Debug\list.exe.config
+C:\Users\ianch\source\repos\stack\list\bin\Debug\list.exe
+C:\Users\ianch\source\repos\stack\list\bin\Debug\list.pdb
+C:\Users\ianch\source\repos\stack\list\obj\Debug\list.frmMenu.resources
+C:\Users\ianch\source\repos\stack\list\obj\Debug\list.Properties.Resources.resources
+C:\Users\ianch\source\repos\stack\list\obj\Debug\list.csproj.GenerateResource.cache
+C:\Users\ianch\source\repos\stack\list\obj\Debug\list.csproj.CoreCompileInputs.cache
+C:\Users\ianch\source\repos\stack\list\obj\Debug\list.exe
+C:\Users\ianch\source\repos\stack\list\obj\Debug\list.pdb
+C:\Users\ianch\source\repos\stack\list\obj\Debug\list.csproj.AssemblyReference.cache

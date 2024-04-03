@@ -1,0 +1,10 @@
+C:\Users\ianch\source\repos\stack\stack\bin\Debug\stack.exe.config
+C:\Users\ianch\source\repos\stack\stack\bin\Debug\stack.exe
+C:\Users\ianch\source\repos\stack\stack\bin\Debug\stack.pdb
+C:\Users\ianch\source\repos\stack\stack\obj\Debug\stacks.csproj.AssemblyReference.cache
+C:\Users\ianch\source\repos\stack\stack\obj\Debug\stack.frmMenu.resources
+C:\Users\ianch\source\repos\stack\stack\obj\Debug\stack.Properties.Resources.resources
+C:\Users\ianch\source\repos\stack\stack\obj\Debug\stacks.csproj.GenerateResource.cache
+C:\Users\ianch\source\repos\stack\stack\obj\Debug\stacks.csproj.CoreCompileInputs.cache
+C:\Users\ianch\source\repos\stack\stack\obj\Debug\stack.exe
+C:\Users\ianch\source\repos\stack\stack\obj\Debug\stack.pdb
